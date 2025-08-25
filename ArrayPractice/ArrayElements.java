@@ -1,5 +1,5 @@
 package ArrayPractice;
-
+// Printing array Elements.
 import java.util.Arrays;
 
 public class ArrayElements {
@@ -12,3 +12,4 @@ public static void main(String[] args) {
 		}
 }
 }
+
