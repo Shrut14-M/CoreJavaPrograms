@@ -1,5 +1,5 @@
 package ArrayPractice;
-
+// checking if the array element is palindrome or not.
 public class PalindromeInArray {
 public static void main(String[] args) {
 	int arr[]= {101,343,455,678};
@@ -22,3 +22,4 @@ public static void main(String[] args) {
 	}
 }
 }
+
