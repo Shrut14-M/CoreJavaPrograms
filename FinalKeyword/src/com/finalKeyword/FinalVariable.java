@@ -1,5 +1,5 @@
 package com.finalKeyword;
-
+// Use of Final Keyword in Program
 public class FinalVariable {
 	public static void main(String[] args) {
 		FinalVariable f= new FinalVariable();
@@ -20,3 +20,4 @@ public void variableFinal() {
 //	not possible the final variable can be initialized only once and is constant.		
 	}
 }
+
