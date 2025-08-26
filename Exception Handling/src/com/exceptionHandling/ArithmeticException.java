@@ -1,5 +1,5 @@
 package com.exceptionHandling;
-
+// ExceptionHandling Program
 import java.util.Scanner;
 
 public class ArithmeticException {
@@ -26,3 +26,4 @@ public static void main(String[] args) {
 	e.divide(a, b);
 }
 }
+
