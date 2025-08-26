@@ -1,5 +1,5 @@
 package com.method;
-
+// ascii values
 public class Asciivalues {
 public static void ascii(char alpha) {
 	System.out.println(" " + (int)alpha);
@@ -10,3 +10,4 @@ public static void main(String[] args) {
 	Asciivalues.ascii('a');
 }
 }
+
